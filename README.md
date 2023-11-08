@@ -6,10 +6,10 @@ This tool provides a command-line interface for users to log in, take tests, and
 
 ## Getting Started
 ```
+Sign up 
 Sign In
 a. Take Test
-b. View Test
-Sign up 
+b. View your Results
 Exit
 ```
 - Using sign-up new user can register with a User-ID and Password.

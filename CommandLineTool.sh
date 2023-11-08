@@ -120,7 +120,7 @@ function sign_in ()
         else
             echo "Sign-In successfully at $(date)." >> Test_Log.txt
             echo -e "Sign-In successful!\n"
-            echo -ne "1. Take Test\n2. View your Test\n3. Exit\nPlease choose your option: "
+            echo -ne "1. Take Test\n2. View your Results\n3. Exit\nPlease choose your option: "
             read choice
             case ${choice} in
                 1) test_screen
