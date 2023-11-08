@@ -1,0 +1,20 @@
+1) What is the primary purpose of a shell script?
+[A] To compile code
+[B] To execute a single command
+[C] To automate a sequence of commands
+[D] To create a user interface
+2) In shell scripting, what does the shebang (#!) at the beginning of a script indicate?
+[A] A comment
+[B] The script's author
+[C] The path to the shell that should be used to interpret the script
+[D] The script's version number
+3) Which command is used to make a directory in a shell script?
+[A] mkdir
+[B] makefolder
+[C] create
+[D] newdir
+4) What does the "$1" variable represent in a shell script?
+[A] The script's name
+[B] The first argument passed to the script
+[C] The exit code of the script
+[D] The current directory
